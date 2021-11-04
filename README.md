@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rockwell55
 - 👀 I’m interested in ... learning more about programming and its capabilities
-- 🌱 I’m currently learning ... python and cloud architecture
-- 💞️ I’m looking to collaborate on ... web scrapers and other functional programs I can create
+- 🌱 I’m currently learning ... javascript
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
